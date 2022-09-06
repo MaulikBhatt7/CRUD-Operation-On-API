@@ -1,0 +1,53 @@
+.btn{
+    color:cornflowerblue;
+    /* background-color: yellow; */
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fac{
+    float: left;
+    margin: 50px;
+    border: 1px solid rgb(128, 0, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+    text-align: center;
+}
+.font{
+    font-size: 20px;
+    color: blueviolet;
+
+}
+.font:hover{
+    cursor: pointer;
+}
+.button{
+    border-radius: 30%;
+    width: 90px;
+    height: 40px;
+    background-color: cyan;
+}
+.button2{
+    border-radius: 30%;
+    width: 150px;
+    height: 60px;
+    background-color: cyan;
+}
+.input{
+    width: 500px;
+    border: 3px solid rgba(68, 0, 255, 0.333);
+    border-radius: 10px;
+}
+.collapse{
+    float: right;
+}
+.font2{
+    color: rgba(21, 121, 236, 0.42);
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
